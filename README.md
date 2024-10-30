@@ -1,2 +1,3 @@
 # Shaikhfarihana-
-Hello world.this is my profile 
+Hello👋
+This is Farihana. 
