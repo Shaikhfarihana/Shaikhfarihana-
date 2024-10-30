@@ -15,6 +15,7 @@ I'm an MBA Finance graduate with expertise in **financial analysis and reporting
 - **Data Visualization (Excel, Power BI)**
 - **Corporate Finance & Capital Budgeting**
 - **Risk Management & Sensitivity Analysis**
+- **Tally ERP & Advanced Excel
 
 ## 🔹 Featured Projects
 
